@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz 2</string>
+    <string name="pendaftaran">Pendaftaran</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="daftar">Daftar</string>
+</resources>
